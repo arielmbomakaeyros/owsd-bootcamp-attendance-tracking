@@ -100,7 +100,7 @@ export default function Home() {
           }} src="./owsd_logo.png" />
         </div>
         <div className="MainTitleDiv">
-          <h1>Data Driven Reaserch & Entrepreneurship</h1>
+          <h1>Data analysis and machine learning using R</h1>
         </div>
         {/* <div className="MainTitleDiv2">
           <h1>Day 3</h1>
@@ -109,7 +109,7 @@ export default function Home() {
           <h1>{new Date().toLocaleDateString("fr-FR", options)}</h1>
         </div>
         <div className="TitleDiv">
-          <h3>Inscrivez votre Présence en tappant votre nom ci-dessous</h3>
+          <h3>Inscrivez votre Présence en tapant votre nom ci-dessous</h3>
         </div>
         <div className="sectionContent">
           <div className="SearchSuggestionsDiv">
@@ -126,7 +126,7 @@ export default function Home() {
 
           <div className="extraInstruction">
             <p>
-              Cliquez sur le boutton &quot;Présent&quot; a droite de votre Nom
+              Cliquez sur le bouton &quot;Présent&quot; à droite de votre Nom
             </p>
           </div>
 
